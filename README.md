@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dipanshu Bhangale</h1>
+
+# Hi 👋, I'm **Dipanshu Bhangale**</h1>
 <h3 align="center">A frontend & backend developer from India</h3>
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
